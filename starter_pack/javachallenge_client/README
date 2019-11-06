@@ -1,0 +1,3 @@
+Application configured with a test primefaces screen.
+Needs db connection with, db access settings are in application.properties
+After running you can check the test page at http://localhost:8080/product
